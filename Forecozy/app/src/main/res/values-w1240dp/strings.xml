@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forecozy</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="location_placeholder">Fayoum</string>
+    <string name="date_placeholder">Monday, 17 May</string>
+    <string name="temperature_placeholder">21°</string>
+    <string name="condition_placeholder">Thunderstorm</string>
+    <string name="wind_placeholder">13 km/h</string>
+    <string name="humidity_placeholder">24%</string>
+    <string name="pressure_placeholder">1012 hPa</string>
+    <string name="clouds_placeholder">75%</string>
+    <string name="description_placeholder">Thunderstorm</string>
+    <string name="today">Today</string>
+    <string name="wind">ًWind</string>
+    <string name="weather_state">Weather state</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="clouds">Clouds</string>
+    <string name="description">Description</string>
+    <string name="next_4_days">Next 4 Days</string>
+
+    <string name="retry">Retry</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="location_disabled_error">Location disabled error</string>
+    <string name="location_permission_title">Location Permission Required</string>
+    <string name="location_permission_rationale">We need access to your location to provide accurate weather information for your area. Please grant location permission to use this feature</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>

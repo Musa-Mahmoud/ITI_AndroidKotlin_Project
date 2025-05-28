@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فوركوزي</string>
+    <string name="title_activity_main">القائمة الرئيسية</string>
+    <string name="navigation_drawer_open">افتح قائمة التنقل</string>
+    <string name="navigation_drawer_close">اغلق قائمة التنقل</string>
+    <string name="nav_header_title">استوديو اندرويد</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">قائمة التنقل</string>
+    <string name="action_settings">الإعدادات</string>
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery">صور</string>
+    <string name="menu_slideshow">عرض الشرائح</string>
+
+    <string name="location_placeholder">الفيوم</string>
+    <string name="date_placeholder">الإثنين, 17 مايو</string>
+    <string name="temperature_placeholder">21°</string>
+    <string name="condition_placeholder">عاصفة رعدية</string>
+    <string name="wind_placeholder">13 كم/ساعة</string>
+    <string name="humidity_placeholder">24%</string>
+    <string name="pressure_placeholder">1012 هيكتو باسكال</string>
+    <string name="clouds_placeholder">75%</string>
+    <string name="description_placeholder">عاصفة رعدية</string>
+    <string name="today">اليوم</string>
+    <string name="wind">ًالرياح</string>
+    <string name="weather_state">حالة الطقس</string>
+    <string name="humidity">الرطوبة</string>
+    <string name="pressure">الضغط الجوي</string>
+    <string name="clouds">السحاب</string>
+    <string name="description">الوصف</string>
+    <string name="next_4_days">4 أيام التالية</string>
+
+    <string name="retry">إعادة المحاولة</string>
+    <string name="unknown_error">خطأ مجهول السبب</string>
+    <string name="location_disabled_error">خطأ الموقع غير مفعل</string>
+    <string name="location_permission_title">مطلوب إذن الموقع</string>
+    <string name="location_permission_rationale">نحتاج إلى الوصول إلى موقعك لتقديم معلومات دقيقة عن الطقس في منطقتك. يرجى منح إذن الموقع لاستخدام هذه الميزة</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+</resources>
